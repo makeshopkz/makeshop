@@ -1,1 +1,1 @@
-# makeshop
+# Welcome to your Dyad app
