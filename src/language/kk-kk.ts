@@ -1,0 +1,57 @@
+export const kk = {
+  header: {
+    searchPlaceholder: "Тауарларды, брендтерді және санаттарды іздеу...",
+    login: "Кіру",
+    cart: "Себет",
+    wishlist: "Таңдаулылар",
+    language: "Тіл",
+  },
+  nav: {
+    home: "Басты бет",
+    catalog: "Каталог",
+    cart: "Себет",
+    wishlist: "Таңдаулылар",
+    profile: "Профиль",
+  },
+  home: {
+    heroBadge: "Маусымдық жеңілдіктер",
+    heroTitle: "Электроникаға -70%-ға дейін жеңілдіктер",
+    heroButton: "Сатып алуға өту",
+    benefits: {
+      delivery: "Тегін жеткізу",
+      deliveryDesc: "50 000 ₸ бастап тапсырыс бергенде",
+      quality: "Сапа кепілдігі",
+      qualityDesc: "Тек түпнұсқа тауарлар",
+      return: "Оңай қайтару",
+      returnDesc: "Ойлануға 14 күн",
+      support: "24/7 қолдау",
+      supportDesc: "Әрқашан сізбен байланыстамыз",
+    },
+    recommended: "Сізге ұсынамыз",
+    viewAll: "Барлығын көру",
+    flashSale: "Flash Sale: Тек бүгін!",
+  },
+  product: {
+    inStock: "Қоймада бар",
+    addToCart: "Себетке салу",
+    buyNow: "Қазір сатып алу",
+    description: "Сипаттама",
+    specs: "Сипаттамалары",
+    reviews: "Пікірлер",
+    related: "Бұл тауармен бірге сатып алады",
+  },
+  cart: {
+    title: "Себет",
+    empty: "Себетіңіз бос",
+    checkout: "Тапсырысты рәсімдеу",
+    total: "Жиыны",
+    items: "тауар",
+  },
+  footer: {
+    about: "Онлайн-шопинг әлеміндегі сіздің сенімді серіктесіңіз.",
+    buyers: "Сатып алушыларға",
+    company: "Компания",
+    subscribe: "Жаңалықтарға жазылыңыз",
+    rights: "Барлық құқықтар қорғалған",
+  }
+};

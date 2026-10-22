@@ -1,0 +1,57 @@
+export const en = {
+  header: {
+    searchPlaceholder: "Search products, brands and categories...",
+    login: "Login",
+    cart: "Cart",
+    wishlist: "Wishlist",
+    language: "Language",
+  },
+  nav: {
+    home: "Home",
+    catalog: "Catalog",
+    cart: "Cart",
+    wishlist: "Wishlist",
+    profile: "Profile",
+  },
+  home: {
+    heroBadge: "Seasonal Sale",
+    heroTitle: "Up to -70% off on electronics",
+    heroButton: "Shop Now",
+    benefits: {
+      delivery: "Free Delivery",
+      deliveryDesc: "On orders over 50,000 ₸",
+      quality: "Quality Guarantee",
+      qualityDesc: "Only original products",
+      return: "Easy Returns",
+      returnDesc: "14 days to change your mind",
+      support: "24/7 Support",
+      supportDesc: "Always in touch with you",
+    },
+    recommended: "Recommended for you",
+    viewAll: "View All",
+    flashSale: "Flash Sale: Today Only!",
+  },
+  product: {
+    inStock: "In Stock",
+    addToCart: "Add to Cart",
+    buyNow: "Buy Now",
+    description: "Description",
+    specs: "Specifications",
+    reviews: "Reviews",
+    related: "Frequently bought together",
+  },
+  cart: {
+    title: "Shopping Cart",
+    empty: "Your cart is empty",
+    checkout: "Checkout",
+    total: "Total",
+    items: "items",
+  },
+  footer: {
+    about: "Your reliable partner in the world of online shopping.",
+    buyers: "For Buyers",
+    company: "Company",
+    subscribe: "Subscribe to News",
+    rights: "All rights reserved",
+  }
+};

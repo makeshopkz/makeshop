@@ -1,0 +1,57 @@
+export const ru = {
+  header: {
+    searchPlaceholder: "Поиск товаров, брендов и категорий...",
+    login: "Войти",
+    cart: "Корзина",
+    wishlist: "Избранное",
+    language: "Язык",
+  },
+  nav: {
+    home: "Главная",
+    catalog: "Каталог",
+    cart: "Корзина",
+    wishlist: "Избранное",
+    profile: "Профиль",
+  },
+  home: {
+    heroBadge: "Сезонная распродажа",
+    heroTitle: "Скидки до -70% на электронику",
+    heroButton: "Перейти к покупкам",
+    benefits: {
+      delivery: "Бесплатная доставка",
+      deliveryDesc: "При заказе от 50 000 ₸",
+      quality: "Гарантия качества",
+      qualityDesc: "Только оригинальные товары",
+      return: "Легкий возврат",
+      returnDesc: "14 дней на раздумья",
+      support: "Поддержка 24/7",
+      supportDesc: "Всегда на связи с вами",
+    },
+    recommended: "Рекомендуем вам",
+    viewAll: "Смотреть все",
+    flashSale: "Flash Sale: Только сегодня!",
+  },
+  product: {
+    inStock: "В наличии",
+    addToCart: "В корзину",
+    buyNow: "Купить сейчас",
+    description: "Описание",
+    specs: "Характеристики",
+    reviews: "Отзывы",
+    related: "С этим товаром покупают",
+  },
+  cart: {
+    title: "Корзина",
+    empty: "Ваша корзина пуста",
+    checkout: "Оформить заказ",
+    total: "Итого",
+    items: "товаров",
+  },
+  footer: {
+    about: "Ваш надежный партнер в мире онлайн-шопинга.",
+    buyers: "Покупателям",
+    company: "Компания",
+    subscribe: "Подпишитесь на новости",
+    rights: "Все права защищены",
+  }
+};
